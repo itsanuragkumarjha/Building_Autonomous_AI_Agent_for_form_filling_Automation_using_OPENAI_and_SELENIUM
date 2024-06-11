@@ -1,0 +1,5 @@
+openai
+selenium
+pynput
+webdriver_manager
+time
